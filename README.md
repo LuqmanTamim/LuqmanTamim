@@ -19,7 +19,15 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
  
+# 💡 Projects
 
 
+# 🎓 Certifications
+- ![AWS AWS Certified Cloud
+Practitioner CLF-C02](https://img.shields.io/badge/AWS-Cloud_Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 👉 [Click Me](https://www.credly.com/badges/08e911b7-1004-4873-abfa-42c074824970/linked_in_profile) 
+- ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) Currently Developing 🛠️🚧
+- ![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) Currently Developing 🛠️🚧
+
+# GitHub Stats
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=LuqmanTamim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
