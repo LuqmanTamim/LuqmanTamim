@@ -3,8 +3,6 @@
 ✍️ Sharing about my journey and learnings in tech on [LinkedIn](https://www.linkedin.com/in/luqman-tamim) and [Medium](https://medium.com/@luqmantamim1810/how-to-pass-the-aws-certified-cloud-practitioner-certification-%EF%B8%8F-0f216939c012)<br/>
 👩🏻‍🎓 Achieved a First Class in Mechanical Engineering at the Queen Mary University of London, UK<br/>
 
-📫 How to reach me luqmantamim1810@gmail.com
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
